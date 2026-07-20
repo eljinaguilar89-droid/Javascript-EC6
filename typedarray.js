@@ -12,6 +12,6 @@ console.log(new BigUint64Array());
 
 
 const typedArray = new Int8Array(10);
-typedArray[0] = 32;
+typedArray[0] = 32; 
 typedArray[1] = 130;
 console.log(typedArray)
